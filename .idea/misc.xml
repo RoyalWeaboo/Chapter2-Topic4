@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/drawable/background_brimo.xml" value="0.1225" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/drawable/background_brimo_2.xml" value="0.1225" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/drawable/background_brimo_3.xml" value="0.1225" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/drawable/background_brimo_4.xml" value="0.1225" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/drawable/background_brimo_orange_1.xml" value="0.1225" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/drawable/background_tamyiz.xml" value="0.1225" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/drawable/et_topup_brimo.xml" value="0.1225" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/latihan2.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/latihan_3.xml" value="0.22" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/latihan_linear.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/latihan_relative.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/linear_horizontal.xml" value="0.1" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/relative_layour.xml" value="0.1" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/relative_layout.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/table.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/tugas_1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ricki/AndroidStudioProjects/Topic4/app/src/main/res/layout/tugas_2.xml" value="0.14666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
